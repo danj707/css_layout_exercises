@@ -10,3 +10,17 @@ main {
   margin-left: auto;
   margin-right: auto;
 }
+
+.nebula_left {
+	float:left;
+	width:300px;
+	padding-top:10px;
+	padding-right:10px;
+}
+
+.nebula_right {
+	float:right;
+	width:400px;
+	padding-top:10px;
+	padding-left:10px;
+}
